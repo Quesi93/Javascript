@@ -6,13 +6,7 @@ var dob = new Date(typeof 1996, 9, 24);
 var person = {};
 var empty = undefined;
 
-console.log(firstName);
-console.log(age);
-console.log(isFemale);
-console.log(balance);
-console.log(dob);
-console.log(person);
-console.log(empty);
+
 
 console.log(typeof firstName);
 console.log(typeof age);
