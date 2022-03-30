@@ -1,3 +1,15 @@
+// Naming Variables
+/*
+Variables names
+- cannot contain spaces.
+- must begin with a letter, 
+    an underscore (_) or a dollar sign ($).
+- names can only contain letters,
+    numbers, underscores, or dollar signs.
+- names are case-sensitive.
+- cannot use reserved keywords
+*/
+
 var firstName = "Quesi";
 var age = 25;
 var isFemale = true;
