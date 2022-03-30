@@ -12,7 +12,7 @@ Variables names
 
 var firstName = "Quesi";
 var age = 25;
-var isFemale = true;
+var isMale = true;
 var balance = 500.32;
 var dob = new Date(typeof 1996, 9, 24);
 var person = {};
