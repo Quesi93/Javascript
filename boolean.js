@@ -2,9 +2,9 @@
 var isAdult = true
 
 if (!isAdult) {
-    console.log("is not an adult :( ")
+    console.log("is not an Adult :( ")
 } else {
-    console.log("is adult :)")
+    console.log("is Adult :)")
 }
 
 console.log(!true)
