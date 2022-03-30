@@ -3,8 +3,8 @@ var person = {
     firstName: "Quesi",
     age: 25,
     isMale: true,
-    balance: 100.32,
-    dob: new Date(2000, 1, 28).toJSON(),
+    balance: 500.32,
+    dob: new Date(1996, 9, 24).toJSON(),
     address: {
         city: "Kumasi",
         postCode: "SF2"
